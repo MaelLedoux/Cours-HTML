@@ -1,0 +1,2 @@
+Je suis en train de réaliser l'exercice 1 de la maîtrise de Git/GitHub
+Je viens de modifier ce fichier
